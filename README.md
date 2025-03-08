@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Yigitsahinn
-- 👀 I’m interested in .oyun tasarımı..
-- 🌱 I’m currently learning unity...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .game development..
 - 📫 How to reach me ...yigitsahin564@gmail.com
 - 5356845747
 
